@@ -15,3 +15,11 @@ The javaScript code doesn't have the libraries imported traditionally
 since I was using a web IDE called openProcessing. On openProcessing importing
 libraries is just pressing a button on the side of the screen. I was using
 it since that's the IDE my instructor taught the course in.
+
+VIDEO DEMONSTRATIONS
+Full Demonstration (minus idle behaviours):
+https://drive.google.com/file/d/171KOxSb6-JOHBJZrjn6tR2G2UJmW1604/view?usp=sharing
+
+Idle Behaviour Demonstration:
+https://drive.google.com/file/d/1ZCvb-q9WhYrgVXQA5ksHT0VaTR7ghW4M/view?usp=sharing
+
