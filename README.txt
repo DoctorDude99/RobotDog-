@@ -1,3 +1,4 @@
+doggE, it is like wallE but dog
 OVERVIEW
 This is a robot dog project made using a combination of arduino and javaScript which is controlled by voice and hand movements.
 The arduino is connected via serial to the computer where the javaScript will run and the camera and mic will pick up the users
